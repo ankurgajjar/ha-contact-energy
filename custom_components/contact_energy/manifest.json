@@ -1,0 +1,10 @@
+{
+  "domain": "contact_energy",
+  "name": "Contact Energy",
+  "codeowners": ["@your_github_username"],
+  "documentation": "https://github.com/your_github_username/ha-contact-energy",
+  "integration_type": "hub",
+  "iot_class": "cloud_polling",
+  "requirements": ["aiohttp"],
+  "version": "1.0.0"
+}
